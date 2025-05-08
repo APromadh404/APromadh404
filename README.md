@@ -2,9 +2,11 @@
 <h3 align="center">UI/UX & Frontend Developer from Sri Lanka</h3>
 
 <div align="center">
+   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="180">
+</div>
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&width=500&lines=Passionate+Developer;Clean+Code+Advocate;Problem+Solver" alt="Header Animation" />
 </div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=apromadh404&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile views" />
   <a href="mailto:avishkaf404@gmail.com">
@@ -52,24 +54,27 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apromadh404&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apromadh404&layout=compact&theme=radical&hide_border=true" />
+
+### Development Metrics
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center; margin: 2rem 0">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=apromadh404&show_icons=true&theme=transparent&hide_border=true&title_color=6C63FF&text_color=ffffff&icon_color=6C63FF&include_all_commits=true&count_private=true&bg_color=00000000" alt="Profile Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apromadh404&layout=compact&theme=transparent&hide_border=true&title_color=6C63FF&text_color=ffffff&bg_color=00000000&langs_count=8" alt="Top Languages">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apromadh404&theme=radical&hide_border=true" />
+
+### Weekly Breakdown
+<div style="margin: 2rem 0">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apromadh404&theme=react-dark&bg_color=00000000&color=6C63FF&line=6C63FF&point=ffffff&hide_border=true&area=true&area_color=6C63FF&custom_title=Weekly+Contribution+Graph" alt="Activity Graph" style="width: 100%; max-width: 800px">
 </div>
 
-<div align="center">
-  <img src="https://github.com/apromadh404/apromadh404/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
-
 ---
 
 <div align="center">
   <p>⚡ Fun fact: Call me <strong>AP</strong>!</p>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
 </div>
+
