@@ -10,12 +10,12 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=apromadh404&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=APromadh404&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile views" />
   <a href="mailto:avishkaf404@gmail.com">
     <img src="https://img.shields.io/badge/Email-avishkaf404%40gmail.com-6C63FF?style=flat&logo=gmail" alt="Email" />
   </a>
-  <a href="https://github.com/apromadh404">
-    <img src="https://img.shields.io/github/followers/apromadh404?label=Followers&color=6C63FF&style=flat" alt="Followers" />
+  <a href="https://github.com/APromadh404">
+    <img src="https://img.shields.io/github/followers/APromadh404?label=Followers&color=6C63FF&style=flat" alt="Followers" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=apromadh404&theme=discord&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=APromadh404&theme=discord&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6<style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -79,19 +79,22 @@
 
 ### Development Metrics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apromadh404&show_icons=true&theme=dark&hide_border=true&title_color=6C63FF&text_color=ffffff&icon_color=6C63FF&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apromadh404&layout=compact&theme=dark&hide_border=true&title_color=6C63FF&text_color=ffffff&bg_color=0d1117&langs_count=10" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=APromadh404&show_icons=true&theme=dark&hide_border=true&title_color=6C63FF&text_color=ffffff&icon_color=6C63FF&bg_color=0d1117" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APromadh404&layout=compact&theme=dark&hide_border=true&title_color=6C63FF&text_color=ffffff&bg_color=0d1117&langs_count=10" alt="Top Languages"/>
 </p>
 
 ### Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apromadh404&theme=dark&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=APromadh404&theme=dark&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&background=0d1117" alt="GitHub Streak" />
 </p>
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/apromadh404/APromadh404/blob/output/dist/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-  <img src="https://github.com/apromadh404/APromadh404/blob/output/dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/APromadh404/APromadh404/output/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/APromadh404/APromadh404/output/dist/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/APromadh404/APromadh404/output/dist/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 </div>
