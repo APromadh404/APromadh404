@@ -16,27 +16,27 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Verify output files
         run: |
-          echo "Checking dist directory contents:"
-          ls -l dist/
-          if [ ! -f dist/github-contribution-grid-snake.svg ]; then
+          echo "Checking output files:"
+          ls -l
+          if [ ! -f github-contribution-grid-snake.svg ]; then
             echo "Error: github-contribution-grid-snake.svg not found"
             exit 1
           fi
-          if [ ! -f dist/github-contribution-grid-snake-dark.svg ]; then
+          if [ ! -f github-contribution-grid-snake-dark.svg ]; then
             echo "Error: github-contribution-grid-snake-dark.svg not found"
             exit 1
           fi
       - name: Push to output branch
-        uses Armando: ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
           keep_history: true # Create branch if it doesn't exist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
