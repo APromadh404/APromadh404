@@ -88,6 +88,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apromadh404&theme=dark&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&background=0d1117" alt="GitHub Streak" />
 </p>
 
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/apromadh404/APromadh404/blob/output/dist/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github.com/apromadh404/APromadh404/blob/output/dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark" />
+</p>
+
+</div>
+
 ---
 
 <div align="center">
@@ -126,6 +134,6 @@
   </div>
   
   <div style="margin-top: 20px;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" alt="Footer Wave" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" alt="Footer Waving Animation" />
   </div>
 </div>
