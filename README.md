@@ -30,10 +30,6 @@
 
 ---
 
-### 🔭 Current Project
-**Learning Management System (LMS)**  
-*Developing a full-stack e-learning platform with modern web technologies*
-
 ### 🌱 Currently Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
