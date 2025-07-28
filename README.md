@@ -79,10 +79,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APromadh404&layout=compact&theme=dark&hide_border=true&title_color=6C63FF&text_color=ffffff&bg_color=0d1117&langs_count=10" alt="Top Languages"/>
 </p>
 
-### Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=APromadh404&theme=dark&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&background=0d1117" alt="GitHub Streak" />
-</p>
 
 ### 🐍 Contribution Snake
 <p align="center">
