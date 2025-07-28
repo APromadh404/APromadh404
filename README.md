@@ -75,8 +75,8 @@
 
 ### Development Metrics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=APromadh404&show_icons=true&theme=dark&hide_border=true&title_color=6C63FF&text_color=ffffff&icon_color=6C63FF&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APromadh404&layout=compact&theme=dark&hide_border=true&title_color=6C63FF&text_color=ffffff&bg_color=0d1117&langs_count=10" alt="Top Languages"/>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apromadh404&show_icons=true&locale=en" alt="apromadh404" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apromadh404&show_icons=true&locale=en&layout=compact" alt="apromadh404" />
 </p>
 
 
